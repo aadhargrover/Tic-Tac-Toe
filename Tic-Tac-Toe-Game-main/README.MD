@@ -1,3 +1,2 @@
-#A Tic Tac Toe Game with HTML CSS and JavaScript
+A Tic Tac Toe Game using HTML CSS and JavaScript
 
-![preview img](preview.jpg)
